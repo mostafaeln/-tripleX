@@ -1,0 +1,5 @@
+﻿  triplex.cpp
+E:\TripleX\triplex\triplex\triplex.cpp(21,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\TripleX\triplex\triplex\triplex.cpp(22,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\TripleX\triplex\triplex\triplex.cpp(53,39): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  triplex.vcxproj -> E:\TripleX\triplex\Debug\triplex.exe
